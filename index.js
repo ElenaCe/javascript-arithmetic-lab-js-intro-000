@@ -22,7 +22,7 @@ function dec(n){
 }
 
 function makeInt(n){
-  
+
 }
 
 describe('makeInt(n)', function() {
