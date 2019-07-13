@@ -13,8 +13,8 @@ function divide(a,b){
   return a/b
 }
 
-function inc(n){
-  n ++
+function inc(){
+  n += 1
 }
 
 function dec(n){
